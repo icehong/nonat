@@ -1,0 +1,3 @@
+
+NAT 类型及检测方法:
+https://my.oschina.net/u/945874/blog/371562
